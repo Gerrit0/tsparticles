@@ -74,6 +74,13 @@
   "includeVersion": true,
   "hideGenerator": true,
   "out": "./docs",
+  "plugin": [
+    "typedoc-plugin-carbon-ads",
+    "typedoc-plugin-clarity",
+    "typedoc-plugin-coverage",
+    "typedoc-plugin-keyword",
+    // "typedoc-plugin-missing-exports"
+  ],
   "clarityId": "8q4bxin4tm",
   "carbonServe": "CEAI6KJL",
   "carbonPlacement": "particlesjsorg",
